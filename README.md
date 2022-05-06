@@ -8,7 +8,7 @@
 You will need thre things:
  - Python (you can download it from the Microsoft Store or [here](https://python.org).
  - [Visual Studio Code](https://code.visualstudio.com)
- - [Pygame-zero](#installing-pygame-zero)
+ - [Installing Pygame-zero](#installing-pygame-zero)
 
 ---
 
