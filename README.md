@@ -8,8 +8,21 @@
 You will need thre things:
  - Python (you can download it from the Microsoft Store or [here](https://python.org).
  - [Visual Studio Code](https://code.visualstudio.com)
- - [Pygame-zero](#pygame-zero)
+ - [Pygame-zero](#installing-pygame-zero)
 
 ---
 
-## Pygame-zero
+## Installing Pygame-zero
+To install it we will need Python installed. The commands **for Windows** are:
+
+```
+python -m pip install -U pip
+```
+
+```
+pip install pygame
+```
+
+```
+pip install pgzero
+```
