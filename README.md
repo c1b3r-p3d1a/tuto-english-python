@@ -26,7 +26,7 @@ pip install pygame
 ```
 pip install pgzero
 ```
-adn for **Mac** are:
+and for **Mac** are:
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
