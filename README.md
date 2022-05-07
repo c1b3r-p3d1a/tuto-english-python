@@ -50,4 +50,4 @@ pip3 install pgzero
 
 ---
 
-If you notice a bug and/or want to say something, you can do it [here](https://github.com/c1b3r-p3d1a/tuto-english-python/issues)
+If you notice a bug and/or want to say something about the project, you can do it [here](https://github.com/c1b3r-p3d1a/tuto-english-python/issues)
