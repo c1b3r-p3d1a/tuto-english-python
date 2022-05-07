@@ -47,3 +47,7 @@ pip3 install pygame
 ```
 pip3 install pgzero
 ```
+
+---
+
+If you notice a bug or wnat to say something, you can do it [here](https://github.com/c1b3r-p3d1a/tuto-english-python/issues)
